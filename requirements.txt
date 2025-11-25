@@ -1,3 +1,6 @@
+torch==1.12.1
+torchvision==0.13.1
+torchaudio==0.12.1
 einops==0.8.0
 local-attention==1.9.14
 matplotlib==3.7.0
@@ -9,6 +12,5 @@ scikit-learn==1.2.2
 scipy==1.10.1
 sktime==0.16.1
 sympy==1.11.1
-torch==1.7.1
 tqdm==4.64.1
-PyWavelets
+PyWavelets==1.4.1
